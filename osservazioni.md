@@ -1,25 +1,26 @@
 # Osservazioni — Esercitazione 0
 
-Gruppo:
+Gruppo:B21
 
-Componenti (nome, cognome e username GitHub di entrambi):
+Componenti (nome, cognome e username GitHub di entrambi): Andrea Gargioli, andreagargioli; Nicoletta Nenna nnicolettaaa
 
-URL del repository condiviso:
+URL del repository condiviso: https://github.com/nnicolettaaa/esercitazione-0-template.git
 
-Chi ha usato la tastiera nello step 1 e nello step 2:
+Chi ha usato la tastiera nello step 1 e nello step 2: entrambe
 
 Compilate insieme le osservazioni e discutete le risposte: entrambi dovete
 saper spiegare le prove svolte.
 
 ## Step 1 — Hello World: compilazione ed esecuzione
 
-Comando di compilazione:
+Comando di compilazione: gcc -std=c17 -Wall -Wextra -Wpedantic
 
-Comando di esecuzione e risultato osservato:
+Comando di esecuzione e risultato osservato: .\hello
+Ho osservato una corretta stampa della mia richiesta
 
-Che cosa ho capito su sorgente ed eseguibile:
+Che cosa ho capito su sorgente ed eseguibile: Abbiamo capito che la sorgente  e' il file contenete il codice scritto da noi, mentre l'eseguibile e' un file creato dal compilatore per tradurre le nostre istruzioni in linguaggio macchina
 
-Output richiesto e comportamento del programma prima della modifica:
+Output richiesto e comportamento del programma prima della modifica: 
 
 Esito dopo la modifica e spiegazione della correzione:
 
