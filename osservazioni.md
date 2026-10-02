@@ -26,9 +26,9 @@ Esito dopo la modifica e spiegazione della correzione:
 
 ## Step 1 — Git
 
-Quali file ho incluso nel commit e perché:
+Quali file ho incluso nel commit e perché: Nel commit abbiamo incluso hello.c e osservazioni.md, file che vogliamo compaiano su github.
 
-Come ho verificato che la versione provata sia presente su GitHub:
+Come ho verificato che la versione provata sia presente su GitHub: siamo entrate su github e abbiamo verificato la prwesenza dei file e il loro contenuto
 
 Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone:
 
